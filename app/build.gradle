@@ -5,7 +5,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "25.0.2"
     defaultConfig {
-//        applicationId "android.example.com.servicesample"
+//        applicationId "android.example.com.servicesample"  // 	converting projct to library
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
